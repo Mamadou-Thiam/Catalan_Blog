@@ -1,0 +1,12 @@
+.yamal{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.lamine{
+    padding: 50px ;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
